@@ -1,1 +1,1 @@
-# Agenda-De-Corretor
+Iniciando o projeto que tem como objetivo de desenvolver uma ferramente para meus clientes de plano de saúde e seguro de automoveis, onde minha dor é ter alguma informações. como: 1- saber quando se iniciou o plano, 2 - saber quando é a renovação e ter em fácil acesso a apolice do cliente, 3 - produtos que eles tem comigo, 4 - boletos a vencer com facilidade
